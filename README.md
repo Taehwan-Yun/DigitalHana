@@ -6,6 +6,7 @@
 - Therefore, we developed a gathering management service combined with a location recommendation function to increase MAU targeting the younger generation.
 - Below is a conceptual diagram of the POI (Point of Interest) recommendation model utilized in this service.  
 ## POI Recommendation Model using SR-GNN
-temporal
+
+See the code for details.
 
 ## Reference
