@@ -1,2 +1,3 @@
-train: training dataset \\
+train: training dataset  
+
 test: test dataset
