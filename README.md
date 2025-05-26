@@ -1,3 +1,5 @@
 # DigitalHana
-# Project Name:
+## POI Recommendation Model using SR-GNN
 temporal
+
+## Reference
