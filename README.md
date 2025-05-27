@@ -10,4 +10,4 @@
 See the code for details.
 
 ## Reference
-Wu, Shu, et al. "Session-based recommendation with graph neural networks." Proceedings of the AAAI conference on artificial intelligence. Vol. 33. No. 01. 2019.
+- Wu, Shu, et al. "Session-based recommendation with graph neural networks." Proceedings of the AAAI conference on artificial intelligence. Vol. 33. No. 01. 2019.
